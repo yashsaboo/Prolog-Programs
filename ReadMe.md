@@ -6,6 +6,7 @@ A peek into a realm called logic programming. Prolog is alanguage which belongs 
 
 ## Requirements to run the code
 Prolog
+
 In terminal, execute the following:
 ```
 sudo apt-get install swi-prolog
