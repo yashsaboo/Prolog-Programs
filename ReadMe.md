@@ -1,5 +1,5 @@
 # Prolog Programs
-A peek into a realm called logic programming. Prolog is alanguage which belongs in that domain, and has been largely used in computational linguistics and AI.
+A peek into a realm called logic programming. Prolog is a language which belongs in that domain, and has been largely used in computational linguistics and AI.
 
 ## File Details
 3 Prolog Codes which works on relations like: Symptoms->Disease, Family Relations and a set of random relation which will determine if Alan can swim.
